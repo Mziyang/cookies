@@ -1,0 +1,33 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+www.lynda.com	FALSE	/	FALSE	1658653125	bcookie	d2a575085fa44517b9882274d30987b5c5d92d253d344e1ab38d21aac0a8bc59
+#HttpOnly_.lynda.com	TRUE	/	FALSE	1611440474	throttle-9620ede73ab0b3b8d0fe1e62763ad939	1
+#HttpOnly_.lynda.com	TRUE	/	FALSE	1611440474	throttle-ad15fee1459e8f3e1ae3d8d711f77883	1
+www.lynda.com	FALSE	/	FALSE	1600723294	signin-tooltip	1
+#HttpOnly_.lynda.com	TRUE	/	FALSE	1611440492	throttle-d30a4623fe13b45c5282982a3138ba02	1
+#HttpOnly_.lynda.com	TRUE	/	FALSE	1611440492	throttle-2fa0e9b608dffa03090202330a823d2c	1
+#HttpOnly_.lynda.com	TRUE	/	FALSE	1611440673	throttle-7566ffb605d4cb8c15225d8859a6efd3	1
+#HttpOnly_.lynda.com	TRUE	/	FALSE	1611440673	throttle-b8b96eed8d81f42a88aadaadc5139c25	1
+www.lynda.com	FALSE	/	FALSE	1597267473	player_settings_0_2	player_type=2&video_format=1&cc_status=2&window_extra_height=148&volume_percentage=50&resolution=0&reset_on_plugins=True
+#HttpOnly_www.lynda.com	FALSE	/	FALSE	1911072273	LyndaAccess	LyndaAccess=7/23/2020 2:24:33 PM&p=0&data=9,,1,191505
+www.lynda.com	FALSE	/	FALSE	1595625873	AspSessionIdCopy	af296259-7323-470b-9f76-59c2f44ebc70
+.lynda.com	TRUE	/	FALSE	1911072273	LyndaLoginStatus	Member-Logged-In
+www.lynda.com	FALSE	/	FALSE	1597267474	player_settings_1995394222_2	player_type=2&video_format=1&cc_status=2&window_extra_height=148&volume_percentage=50&resolution=540
+.lynda.com	TRUE	/	FALSE	1595725761	_gat	1
+#HttpOnly_www.lynda.com	FALSE	/	TRUE	1627261691	token	af296259-7323-470b-9f76-59c2f44ebc70,0963d28d0ed10264552f26e4e6fc9e8c,wyPgHskMpKMbsam6Kefjx26v9g11psUlbDZgduEHxNxzkf2ki3pEfSTjYX2qVVogNNWbJBg/G3QGEptyaF200Y9PHPGMf1kNDZaecA6dZA+w75J+TZXsndZ54CRvOX12bwg+iHBw0hqC400CeN42Og==
+#HttpOnly_.lynda.com	TRUE	/	FALSE	1611626891	throttle-2b03d60a3a4380742663b5f4066e4d2a	1
+#HttpOnly_.lynda.com	TRUE	/	FALSE	1611626891	throttle-81caf7c4bbc10c18b29b105cfcbcdbee	1
+#HttpOnly_.lynda.com	TRUE	/	FALSE	1611626891	throttle-b8b1cb3ef236f57532c515db9614be44	1
+#HttpOnly_.lynda.com	TRUE	/	FALSE	1611626891	throttle-20fc2dfb0a81016faeebb960e94da216	1
+.lynda.com	TRUE	/	FALSE	1658797711	_ga	GA1.2.84929590.1595539292
+.lynda.com	TRUE	/	FALSE	1595812111	_gid	GA1.2.1322535937.1595725701
+www.lynda.com	FALSE	/	FALSE	1627261711	player	%7B%22volume%22%3A0.8%2C%22muted%22%3Afalse%7D
+#HttpOnly_.lynda.com	TRUE	/	FALSE	1611626893	throttle-f9151a904e07fa0812b7b9fb20b6f1ab	1
+#HttpOnly_.lynda.com	TRUE	/	FALSE	1611626893	throttle-7f0c15d211a720cccfeff5e84db0ec6e	1
+#HttpOnly_.lynda.com	TRUE	/	FALSE	1611626893	throttle-66ae19c25d337eab52ef80bb97b39dd7	1
+#HttpOnly_.lynda.com	TRUE	/	FALSE	1611626893	throttle-34d6c36979b1bc5f735cf8382b5963ae	1
+www.lynda.com	FALSE	/	FALSE	1598404093	litrk-srcveh	srcValue=direct/none&vehValue=direct/none&prevSrc=&prevVeh=
+#HttpOnly_.lynda.com	TRUE	/	FALSE	1611626893	throttle-d3ebbd09ec7ecff8c4948ff79599614d	1
+#HttpOnly_www.lynda.com	FALSE	/	TRUE	1595725993	NSC_ed11_xxx-iuuqt_wt	ffffffff096d9e5145525d5f4f58455e445a4a423661
